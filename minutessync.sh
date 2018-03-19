@@ -5,5 +5,5 @@
 cd  ~/Desktop/minutes
 
 for m in *.html; do
-cp $m ~/documents/Dropbox/MPhil/Minutes
+  cp $m ~/documents/Dropbox/MPhil/Minutes
 done
